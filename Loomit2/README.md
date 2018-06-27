@@ -11,6 +11,7 @@ This can be run locally by downloading the files.
 
 
 ######Versions:
+
 commit #1 - 6/25 to 6/26
 Initial design using standard bootstrap features
 
@@ -19,3 +20,6 @@ Updating look and feel of design
 
 commit #3 - 6/26 evening
 additional updates
+
+commit #4 - 6/26 evening
+final minor css updates
