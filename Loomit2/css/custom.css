@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Work+Sans');
+/*
+
+    font-family: 'Work Sans', sans-serif;
+
+    font-family: 'Raleway', sans-serif;
+
+*/
 
 
 .navbar .navbar-brand {
@@ -9,7 +17,25 @@
     background-image: url(../images/msh-32.jpg);
     background-size: cover;
 }
+.jumbotron-text {
+    font-size:6vw;
+}
 
-.card-custom {
-    height: 15rem;
+.font1 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.font2 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.card-size {
+    height: 8vh;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
 }
