@@ -23,3 +23,9 @@ additional updates
 
 commit #4 - 6/26 evening
 final minor css updates
+
+commit #5 - 6/27 morning
+edited image files, fixed a couple of links
+
+commit #6 - 6/27 morning
+minor cleanup
